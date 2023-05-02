@@ -30,7 +30,7 @@ html,body .custombody {
 }
 
 
-.custombody .container #theTop {
+.custombody .container .theTop {
     position: relative;
     float: left;
     font-size: 20px;
@@ -131,13 +131,11 @@ form header {
 }
 
 form .textarea {
-    /* height: 100px; */
     width: 100%;
     overflow: hidden;
 }
 
 form .textarea textarea{
-     /* height: 100%; */
     width: 100%;
     outline: none;
     color: #eee;
